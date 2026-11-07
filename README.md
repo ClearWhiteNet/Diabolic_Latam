@@ -173,7 +173,7 @@ Lista amplia de tipos con regex fuertes y débiles, en español y portugués, in
 
 ### Instalación manual
 ```bash
-git clone https://github.com/Condor2026/Diabolic_Latam
+git clone https://github.com/ClearWhiteNet/Diabolic_Latam
 cd Diabolic_Latam
 pip install flask requests beautifulsoup4
 # Opcionales

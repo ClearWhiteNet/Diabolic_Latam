@@ -1,0 +1,26 @@
+# Datos locales generados por la herramienta
+diabolic_narco.json
+diabolic_narco_backup.json
+url_cache_narco.json
+estado_fuentes_narco.json
+diabolic_latam.log
+
+# Gráficos estáticos
+graficos_estaticos/
+
+# Exportaciones
+diabolic_export.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Entornos / IDE
+.env
+.idea/
+.vscode/
+.DS_Store
